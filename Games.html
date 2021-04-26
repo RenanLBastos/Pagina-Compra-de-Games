@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <link href="Games.css" rel="stylesheet">
 
